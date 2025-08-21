@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/akash-g-aiml/?_l=en_US)
 
 # 💻 Tech Stack:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge&logo=machine-learning&logoColor=white)
